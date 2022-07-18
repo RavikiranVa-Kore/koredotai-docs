@@ -35,10 +35,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
   </summary>
    
    - New Users: Users who are interacting with the bot for the first time will be considered new users.
-   
    - Returning Users: A user who has interacted with the bot earlier and again started interacting with the bot will be considered as returning user.
-
-
   </details>
  </a>
 
